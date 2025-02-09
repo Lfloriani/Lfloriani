@@ -1,4 +1,4 @@
-## Hi there 
+
 <h1 align="center">Hi 👋, I'm Lucas Floriani</h1>
 <h3 align="center">I always had interests in technology to know and create something and implementing the idea is something great to know how they work and interact to our benefit daily,my career began with a background in the military area and in the hospitality,holder of a Diploma in Computer Science I was meant to this path and I know all my previous can help me in a career as a developer.</h3>
 
